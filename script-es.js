@@ -3,7 +3,7 @@ function getRandomItemExp1(arr) {
     const itemExp1 = arr[randomIndexExp1];
     return itemExp1;
 }
-const arrayExp1 = ['https://exp.arboox.com/1/balustervase.html?t=Abrir', 'https://exp.arboox.com/1/bettafish.html?t=Abrir', 'https://exp.arboox.com/1/cameraargus.html?t=Abrir', 'https://exp.arboox.com/1/moai.html?t=Abrir', 'https://exp.arboox.com/1/oss.html?t=Abrir'];
+const arrayExp1 = ['https://exp.arboox.com/1/balustervase.html?t=Abrir', 'https://exp.arboox.com/1/bettafish.html?t=Abrir', 'https://exp.arboox.com/1/cameraargus.html?t=Abrir', 'https://exp.arboox.com/1/moai.html?t=Abrir', 'https://exp.arboox.com/1/oss.html?t=Abrir', 'https://exp.arboox.com/1/beachadventure.html?t=Abrir', 'https://exp.arboox.com/1/pelike.html?t=Abrir'];
 const exp1 = getRandomItemExp1(arrayExp1);
 document.getElementById('exp-1').src = exp1;
 
@@ -13,7 +13,7 @@ function getRandomItemExp2(arr) {
     const itemExp2 = arr[randomIndexExp2];
     return itemExp2;
 }
-const arrayExp2 = ['https://exp.arboox.com/2/intercitytrain.html?t=Abrir', 'https://exp.arboox.com/2/kangaroo.html?t=Abrir', 'https://exp.arboox.com/2/painting.html?t=Abrir', 'https://exp.arboox.com/2/ponycar.html?t=Abrir', 'https://exp.arboox.com/2/violin.html?t=Abrir'];
+const arrayExp2 = ['https://exp.arboox.com/2/intercitytrain.html?t=Abrir', 'https://exp.arboox.com/2/kangaroo.html?t=Abrir', 'https://exp.arboox.com/2/painting.html?t=Abrir', 'https://exp.arboox.com/2/ponycar.html?t=Abrir', 'https://exp.arboox.com/2/violin.html?t=Abrir', 'https://exp.arboox.com/2/rescueboat.html?t=Abrir'];
 const exp2 = getRandomItemExp2(arrayExp2);
 document.getElementById('exp-2').src = exp2;
 
@@ -23,7 +23,7 @@ function getRandomItemExp3(arr) {
     const itemExp3 = arr[randomIndexExp3];
     return itemExp3;
 }
-const arrayExp3 = ['https://exp.arboox.com/3/cruiseship.html?t=Abrir', 'https://exp.arboox.com/3/macaw.html?t=Abrir', 'https://exp.arboox.com/3/nefertiti.html?t=Abrir', 'https://exp.arboox.com/3/prairiedog.html?t=Abrir', 'https://exp.arboox.com/3/woodenboat.html?t=Abrir'];
+const arrayExp3 = ['https://exp.arboox.com/3/cruiseship.html?t=Abrir', 'https://exp.arboox.com/3/macaw.html?t=Abrir', 'https://exp.arboox.com/3/nefertiti.html?t=Abrir', 'https://exp.arboox.com/3/prairiedog.html?t=Abrir', 'https://exp.arboox.com/3/woodenboat.html?t=Abrir', 'https://exp.arboox.com/3/townbus.html?t=Abrir'];
 const exp3 = getRandomItemExp3(arrayExp3);
 document.getElementById('exp-3').src = exp3;
 
@@ -33,7 +33,7 @@ function getRandomItemExp4(arr) {
     const itemExp4 = arr[randomIndexExp4];
     return itemExp4;
 }
-const arrayExp4 = ['https://exp.arboox.com/4/filmcamera.html?t=Abrir', 'https://exp.arboox.com/4/hall.html?t=Abrir', 'https://exp.arboox.com/4/hummingbird.html?t=Abrir', 'https://exp.arboox.com/4/perseverance.html?t=Abrir', 'https://exp.arboox.com/4/shark.html?t=Abrir'];
+const arrayExp4 = ['https://exp.arboox.com/4/filmcamera.html?t=Abrir', 'https://exp.arboox.com/4/hall.html?t=Abrir', 'https://exp.arboox.com/4/hummingbird.html?t=Abrir', 'https://exp.arboox.com/4/perseverance.html?t=Abrir', 'https://exp.arboox.com/4/shark.html?t=Abrir', 'https://exp.arboox.com/4/steampunkmask.html?t=Abrir'];
 const exp4 = getRandomItemExp4(arrayExp4);
 document.getElementById('exp-4').src = exp4;
 
@@ -43,7 +43,7 @@ function getRandomItemExp5(arr) {
     const itemExp5 = arr[randomIndexExp5];
     return itemExp5;
 }
-const arrayExp5 = ['https://exp.arboox.com/5/alpaca.html?t=Abrir', 'https://exp.arboox.com/5/cnsupplystore.html?t=Abrir', 'https://exp.arboox.com/5/facttomato.html?t=Abrir', 'https://exp.arboox.com/5/monstera.html?t=Abrir', 'https://exp.arboox.com/5/seahorse.html?t=Abrir'];
+const arrayExp5 = ['https://exp.arboox.com/5/alpaca.html?t=Abrir', 'https://exp.arboox.com/5/cnsupplystore.html?t=Abrir', 'https://exp.arboox.com/5/facttomato.html?t=Abrir', 'https://exp.arboox.com/5/monstera.html?t=Abrir', 'https://exp.arboox.com/5/seahorse.html?t=Abrir', 'https://exp.arboox.com/5/landrover.html?t=Abrir'];
 const exp5 = getRandomItemExp5(arrayExp5);
 document.getElementById('exp-5').src = exp5;
 
@@ -53,6 +53,6 @@ function getRandomItemExp6(arr) {
     const itemExp6 = arr[randomIndexExp6];
     return itemExp6;
 }
-const arrayExp6 = ['https://exp.arboox.com/6/babyelephant.html?t=Abrir', 'https://exp.arboox.com/6/bonsai.html?t=Abrir', 'https://exp.arboox.com/6/ineedbeach.html?t=Abrir', 'https://exp.arboox.com/6/plane.html?t=Abrir', 'https://exp.arboox.com/6/underground.html?t=Abrir'];
+const arrayExp6 = ['https://exp.arboox.com/6/babyelephant.html?t=Abrir', 'https://exp.arboox.com/6/bonsai.html?t=Abrir', 'https://exp.arboox.com/6/ineedbeach.html?t=Abrir', 'https://exp.arboox.com/6/plane.html?t=Abrir', 'https://exp.arboox.com/6/underground.html?t=Abrir', 'https://exp.arboox.com/6/camerastart.html?t=Abrir'];
 const exp6 = getRandomItemExp6(arrayExp6);
 document.getElementById('exp-6').src = exp6;
